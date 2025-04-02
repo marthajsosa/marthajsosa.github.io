@@ -1,5 +1,5 @@
 # 🌐 marthajsosa.github.io  
-**Personal Website & Cybersecurity Portfolio**
+**Personal Website & Portfolio**
 
 Welcome to my personal site! This GitHub Pages project is a living resume and portfolio designed to showcase my professional journey in cybersecurity, threat intelligence, and incident response.
 
@@ -7,7 +7,7 @@ Welcome to my personal site! This GitHub Pages project is a living resume and po
 This website includes:
 
 - **About Me** – My background, values, and what drives my passion for cyber defense.  
-- **Projects** – Real-world security dashboards, detection use cases, and MITRE ATT&CK-aligned labs.  
+- **Projects** – IR playbooks, PowerShell scripts, CrowdStrike queries, oh my!  
 - **Experience** – Career highlights including my current internship in incident response.  
 - **Education** – Formal academic background.  
 - **Contact** – Ways to reach out or connect professionally.
@@ -20,12 +20,11 @@ This website includes:
 ## 🧪 Work in Progress  
 This site is still under construction, with ongoing updates to:
 
-- Add visual dashboards from CrowdStrike  
-- Include MITRE heatmaps  
+- IR Playbooks and PowerShell scripts 
 - Link to GitHub repos for detections, PowerShell tools, and attack simulations  
 
 ## 🚀 Goals  
-- Demonstrate technical capabilities through hands-on labs  
+- Demonstrate technical capabilities through projects
 - Make cybersecurity accessible to parents, educators, and analysts alike
 
 ## 💬 Feedback & Contributions  
